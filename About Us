@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="about-section">
+        <div class="about-content">
+            <h2>About Us</h2>
+            <p>Welcome to HarryFitness, your ultimate destination for achieving your fitness goals and living a healthier life. We are a dedicated team of fitness enthusiasts, trainers, and wellness experts who are passionate about helping you transform your body and mind.</p>
+            <p>At HarryFitness, we believe that fitness is not just about lifting weights and running on a treadmill. It's a holistic journey towards overall well-being. Whether you're a beginner looking to kickstart your fitness journey or an experienced athlete aiming for peak performance, we have the right programs and support for you.</p>
+            <p>Our state-of-the-art gym is equipped with top-notch facilities, cutting-edge equipment, and a motivating environment to push your limits. Our certified trainers are here to guide you every step of the way, offering personalized workout plans, nutritional guidance, and constant motivation.</p>
+        </div>
+        <div class="topright flex justify-center">
+            <img src="gym.jpg" alt="About Us Image">
+        </div>
+    </section>
+
+</body>
+</html>
